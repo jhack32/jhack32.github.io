@@ -17,3 +17,18 @@ nav a {
   font-size: 18px;
   font-family: Verdana, sans-serif, Times;
 }
+
+footer {
+  border-top: 2px solid gray;
+}
+
+.footemail {
+  list-style: none;
+  margin-left: -4%
+}
+
+.footli {
+  list-style: none;
+  float: right;
+  margin: -25px 5px 0 0
+}
