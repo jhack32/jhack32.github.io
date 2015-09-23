@@ -32,3 +32,8 @@ footer {
   float: right;
   margin: -25px 5px 0 0
 }
+
+.blogpostindex {
+  list-style: none;
+  margin-left: -4%;
+}
