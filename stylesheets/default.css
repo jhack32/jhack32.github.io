@@ -33,6 +33,14 @@ nav a {
   margin: 3px;
   font-size: 18px;
   font-family: Verdana, sans-serif, Times;
+  color: #4b738e;
+}
+
+nav a:hover {
+  font-size: 20px;
+}
+nav a:visited {
+  color: black;
 }
 
 .content {
@@ -49,13 +57,20 @@ footer {
 .footemail {
   list-style: none;
   margin-left: -4%;
+  font-family: Verdana, sans-serif, Times;
+}
+
+.credit {
+  font-size: 9px;
+  text-align: center;
+  margin: 0 0 -2% 10%;
 }
 
 .footli {
   list-style: none;
   display: inline-block;
   float: right;
-  margin: -3% 1% 0 0;
+  margin: -4% 1% 0 0;
 }
 
 .blogpostindex {
@@ -68,8 +83,11 @@ footer {
     float: none;
     margin: 3% 1% 0 0;
   }
-  .footemail {
+  .foot {
     float: none;
+    margin: 0;
+  }
+  .credit {
     margin: 0;
   }
 }
