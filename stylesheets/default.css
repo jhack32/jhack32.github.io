@@ -83,11 +83,12 @@ footer {
     float: none;
     margin: 3% 1% 0 0;
   }
-  .foot {
+  .footemail {
     float: none;
     margin: 0;
   }
   .credit {
+    float: left;
     margin: 0;
   }
 }
