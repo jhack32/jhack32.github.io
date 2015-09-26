@@ -54,8 +54,8 @@ color:#4b738e;
 text-decoration:none
 }
 
-nav a:visited {
-color:#000
+nav a:hover {
+    color: #253947;
 }
 
 .content {
