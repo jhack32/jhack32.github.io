@@ -1,16 +1,16 @@
 .blogpostindex {
-  list-style: none;
-  margin-left: -4%;
+list-style:none;
+margin-left:-4%
 }
 
 .title {
-  color: #3f6077;
+color:#3f6077
 }
 
 .subtitle {
-  margin: -1%;
+margin:-1%
 }
 
 .question {
-  color: #4b738e;
+color:#4b738e
 }
