@@ -110,5 +110,7 @@ margin:0
 }
 
 .b { font-weight: bolder; }
+.color-darkblue { color: #324c5f;}
+.color-blue {color: #4b738e;}
 .lbr { display: block; }
 .font-sm {font-size: 14px;}
