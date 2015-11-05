@@ -111,6 +111,10 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
+    display: inline-block;
+    > li {
+    display: inline;
+    }
 }
 
 .footer-col-wrapper {
@@ -178,7 +182,7 @@
 .post-list {
     margin-left: 0;
     list-style: none;
-
+    display: inline;
     > li {
         margin-bottom: $spacing-unit;
     }
