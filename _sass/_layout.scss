@@ -99,7 +99,7 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    padding: $spacing-unit 0 0 0;
 }
 
 .footer-heading {
@@ -113,7 +113,7 @@
 .social-media-list {
     list-style: none;
     > li {
-    display: inline;
+//   display: inline;
     }
 }
 
@@ -136,13 +136,13 @@
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+    width:         calc(30% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+    width:         calc(35% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
@@ -191,11 +191,15 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+    display: inline;
+    padding-right: 1%;
 }
 
 .post-link {
-    display: block;
+    display: inline;
+// Display was block before 
     font-size: 24px;
+    padding-left: 1%;
 }
 
 
