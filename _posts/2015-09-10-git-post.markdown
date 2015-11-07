@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Git vs Github"
+date: 2015-09-10
+categories: git github
+---
+
+# What are the benefits of version control?
+
+There are many benefits to version control. What version control does is keep copies of your previous changes. It records the changes you done to the file incase you ever want to go back to it. For example, if u wanted to go back to a certain version because you found that you made a mistake in your current file, version control helps with this. It allows other developers to see what the process was and your thinking. If a developer was taking over a project, they would be able to see what the development up until that point was.
+
+# How does git help you keep track of changes?
+
+Git helps keep track of changes by taking snapshot of each commit. It shows the difference between the previous snapshot and the new one. This is done only if the person had performed the correct commands and added the file along with a commit.
+
+# Why use GitHub to store your code?
+
+GitHub has a strong community where people can browse around and look at each others work. People can also provide assistance/tips. The code stored on GitHub can be accessed online so I'd be able to access my code from any computer. GitHub makes our code accessible anywhere and provides option for collaboration/help from others.
